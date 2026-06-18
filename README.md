@@ -20,16 +20,6 @@ This project uses official geospatial and wildfire datasets from Portugal:
 * How do wildfire patterns relate to different forest types?
 * Are eucalyptus plantations more strongly associated with wildfire occurrence than other forest species?
 
-## Methodology
-
-The analysis combines:
-
-* Spatial comparison of land cover maps (1995 vs. 2023)
-* Burned area overlays using wildfire cartography (1996–2025)
-* Forest type distribution analysis
-* Regional wildfire hotspot mapping
-* Temporal trend analysis of burned forest areas
-
 ## Key Insights
 
 * Eucalyptus has become the most widespread forest species in Portugal, replacing large areas previously occupied by maritime pine.
