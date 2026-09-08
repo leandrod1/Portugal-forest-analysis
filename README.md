@@ -7,7 +7,7 @@
 
 Over the last three decades, Portugal has experienced a severe increase in the frequency, extent, and severity of wildfires. Public debate often points to the rapid expansion of fast-growing **Eucalyptus (*Eucalyptus globulus*)** as a primary catalyst. However, this study evaluates whether eucalyptus plantations act as the sole driver of wildfires, or if fire regimes are better explained by broader environmental, spatial, and socio-economic dynamics.
 
-By integrating official geospatial land cover maps (**COS**) and historical wildfire registries (**ICNF**), this project examines the evolution of Portugal's forest composition, the economic importance of the forestry sector (pulp & paper industry), and the spatial relationship between tree species distribution and burned area patterns.
+By integrating official geospatial land cover maps (**COS**) and historical wildfire registries (**ICNF**), this project examines the evolution of Portugal's forest composition, the economic importance of the forestry sector, and the spatial relationship between tree species distribution and burned area patterns.
 
 ---
 
