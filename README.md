@@ -1,5 +1,5 @@
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial-green?style=flat-square&logo=geopandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Geospatial-139C5A?style=flat&logo=geopandas&logoColor=white)
 
 # 🌲 Portugal Forest Composition & Wildfire Dynamics (1995–2025)
 *A 30-Year Geospatial & Socio-Economic Data Analysis*
